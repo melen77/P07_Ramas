@@ -1,1 +1,2 @@
 Cómo hacer la práctica
+primero que todo abrir git
